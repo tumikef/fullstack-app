@@ -1,5 +1,4 @@
-# Fullstack Docker App
-# Visitor Counter App
+# Fullstack Visitor Counter App
 
 Visitor Counter App is a simple fullstack web application designed to demonstrate communication between a frontend, backend, Redis cache, and PostgreSQL database using Docker containers.
 
